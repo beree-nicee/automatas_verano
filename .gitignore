@@ -1,0 +1,11 @@
+# Archivos del sistema y editores
+.DS_Store
+.vscode/
+.idea/
+
+# Carpetas de dependencias y compilación (según lo que uses)
+node_modules/
+target/
+.gradle/
+*.exe
+*.class
